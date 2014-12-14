@@ -1,0 +1,23 @@
+{
+  "name": "adcpiv2-driver",
+  "version": "1.0.0",
+  "description": "Enables data collection via the adcpiv2 i2c module from AB Electronics UK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cabletie/ninja-adcpiv2.git"
+  },
+  "keywords": [
+    "adcpiv2",
+    "ninjablocks"
+  ],
+  "author": "Peter Westley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cabletie/ninja-adcpiv2/issues"
+  },
+  "homepage": "https://github.com/cabletie/ninja-adcpiv2"
+}
